@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo-2",
+  "version": "1.0.0",
+  "description": "Ejemplo para curso de Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ejemplo"
+  ],
+  "author": "adrfrank@outlook.com",
+  "license": "ISC"
+}
